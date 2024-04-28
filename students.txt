@@ -1,0 +1,3 @@
+1 enes bilgisayar
+2 ahmet elektrik
+3 ayşe makine
